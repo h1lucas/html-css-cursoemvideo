@@ -1,0 +1,1 @@
+fazer a seguinte abreviação ul>li*4 agora tente o seguinte:   ul>li*4>a    cria 4 comandos de lista ja com a tag A inserido

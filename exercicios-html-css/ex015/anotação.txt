@@ -1,0 +1,3 @@
+CSS externo = use sempre que puder
+CSS interno = use para pequenas configurações
+CSS inline = procure evitar
